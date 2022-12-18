@@ -18,3 +18,4 @@ DataCamp Python Data Science Toolbox courses notes
 - Iterators
 - Enumerate function
 - Zip function
+- Using iterators to load large files into memory (chunks of data)
