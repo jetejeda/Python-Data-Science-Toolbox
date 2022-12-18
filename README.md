@@ -15,3 +15,6 @@ DataCamp Python Data Science Toolbox courses notes
     With raise keyword
 
 ## Python Data Science Toolbox Part 2 topics
+- Iterators
+- Enumerate function
+- Zip function
