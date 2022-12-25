@@ -20,3 +20,10 @@ DataCamp Python Data Science Toolbox courses notes
 - Zip function
 - Using iterators to load large files into memory (chunks of data)
 - List comprehension
+    - Nested loops
+    - Conditionals
+- Dictionaries comprehension
+    - Nested loops
+    - Conditionals
+- Generator expressions
+- Generator functions
