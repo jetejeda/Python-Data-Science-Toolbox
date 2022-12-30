@@ -1,6 +1,9 @@
 # Python-Data-Science-Toolbox
 DataCamp Python Data Science Toolbox courses notes
 
+# Dataset
+- Twitter data (tweets.csv)
+
 ## Python Data Science Toolbox Part 1 topics
 - Introduction to writing functions
 - Writing functions that return a single or multiple values
